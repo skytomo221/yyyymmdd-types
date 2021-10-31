@@ -1,4 +1,4 @@
-# yyyymmdd-types
+# yyyymmdddate
 
 You can use date type strictly.
 
